@@ -1,4 +1,4 @@
-%%cu
+// %%cu
 #include <cuda_runtime.h>
 #include <sys/time.h>
 #include <time.h>
